@@ -12,3 +12,10 @@ Often designers do complicated things that improve the capacity on a particular
 hardware platform when it might actually be cheaper to buy more hardware.
 
 [2012, Patterns of Enterprise Application Architecture]
+
+“If you can get today’s work done today, but you do it in such a way that you 
+can’t possibly get tomorrow’s work done tomorrow, then you lose.”
+
+
+[1999, Improving the Design of Existing Code ]
+
