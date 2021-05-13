@@ -16,3 +16,4 @@ List of Software developers.
 - Kent Beck
 - Alan Kay
 - Martin Fowler
+- Bjarne Stroustrup
