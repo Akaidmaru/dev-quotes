@@ -18,3 +18,8 @@ we’re in — the one that we think is reality.
 
 
 [2004–05, https://en.wikiquote.org/wiki/Alan_Kay]
+
+The most disastrous thing that you can ever learn is your first programming 
+language.
+
+[UNK]
